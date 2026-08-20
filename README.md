@@ -9,9 +9,6 @@
   # 🌟 **VexFin (v1.0.0)** 🌟
   ### *The Next-Gen Personal Finance App with Apple-Grade Fluidity & Native Biometric Security*
 
-  [![Direct Download APK](https://img.shields.io/badge/📥%20Download-VexFin.apk%20(41MB)-00C853?style=for-the-badge&logo=android&logoColor=white)](./fintrack.apk)
-  [![Security](https://img.shields.io/badge/Security-Fingerprint%20%2B%20PIN-blueviolet?style=for-the-badge&logo=fingerprint)](./fintrack.apk)
-  [![Platform](https://img.shields.io/badge/Android-8.0%2B%20(Samsung%2C%20Xiaomi%2C%20Pixel)-orange?style=for-the-badge&logo=android)](./fintrack.apk)
 
   <p align="center">
     <b>⚡ 100% Offline • 🔒 Zero Data Tracking • 👆 Instant Fingerprint Unlock • 💰 Smart Piggy Banks</b>
